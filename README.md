@@ -1,17 +1,16 @@
 # Web Crawler
 
 ## Environment Settings
-### JDK 11
-### Maven 3.6
+#### JDK 11
+#### Maven 3.6
 
 
 ## Libraries
-### Spring Boot
-### JSoup
-### JUnit
+#### Spring Boot
+#### JSoup
+#### JUnit
 
 ## Test Data
-
       |     URL                 |         Depth          |
       {"https://jsoup.org/",                2            },
       {"https://eventuate.io/",             2            },
